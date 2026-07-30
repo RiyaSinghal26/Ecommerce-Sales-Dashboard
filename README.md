@@ -46,9 +46,9 @@ Ecommerce-Sales-Dashboard/
 ├── ecommerce_data_excel.xlsx      # E-commerce Sales Transaction Dataset
 ├── us_state_long_lat_codes.csv    # Spatial Geocoding Dataset
 └── README.md                       # Documentation Page
-'''
+```
 ##🛠️ Tech Stack
-Business Intelligence: Microsoft Power BI Desktop
-Data Transformation: Power Query & DAX (Data Analysis Expressions)
-Database / Sources: CSV / Excel Dataset
-Data Modeling: Star Schema Design
+* Business Intelligence: Microsoft Power BI Desktop
+* Data Transformation: Power Query & DAX (Data Analysis Expressions)
+* Database / Sources: CSV / Excel Dataset
+* Data Modeling: Star Schema Design
