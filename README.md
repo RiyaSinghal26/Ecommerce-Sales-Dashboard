@@ -47,7 +47,7 @@ Ecommerce-Sales-Dashboard/
 ├── us_state_long_lat_codes.csv    # Spatial Geocoding Dataset
 └── README.md                       # Documentation Page
 ```
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 * Business Intelligence: Microsoft Power BI Desktop
 * Data Transformation: Power Query & DAX (Data Analysis Expressions)
 * Database / Sources: CSV / Excel Dataset
